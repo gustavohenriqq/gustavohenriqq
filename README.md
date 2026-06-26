@@ -30,15 +30,10 @@ e entregar código limpo, documentado e sustentável.
 ## 🚀 Projetos em destaque
 
 ### Dashboard de Controle de Devoluções — Power BI
-Solução completa de BI desenvolvida na AMBEV S.A e em uso real na operação da unidade:
 
-- Pipeline ETL com mais de 800 registros via Power Query
-- Migração e integração de dados SAP ECC → SAP S/4HANA
-- Modelagem relacional com mais de 30 medidas DAX
-- Dashboard interativo com 3 páginas e atualização automática via SharePoint
-- Eliminou processo de análise 100% manual
+Solução completa de BI desenvolvida na AMBEV S.A e em uso real na operação da unidade. ETL de mais de 800 registros, modelagem relacional, mais de 30 medidas DAX e dashboard interativo via SharePoint.
 
-🔗 Repositório: [dashboard-devolucoes-powerbi](https://github.com/gustavohenriqq/dashboard-devolucoes-powerbi)
+🔒 Repositório privado por confidencialidade corporativa
 
 ---
 
