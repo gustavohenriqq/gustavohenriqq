@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/gustavohenrique-nasc/"><img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://gustavohenriqq.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C98500?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:silvahenriquegustavo@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gustavohenriqq&style=for-the-badge&color=C98500&label=Perfil+visto" />
 </p>
 
 ---
@@ -64,10 +63,6 @@ Na **engenharia de dados**, finalizei o pipeline da **Copa do Mundo 2026**: 6 fo
 
 ## 📊 GitHub em números
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavohenriqq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C98500&icon_color=C98500&text_color=C3C2B7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriqq&layout=compact&hide_border=true&bg_color=0D1117&title_color=C98500&text_color=C3C2B7" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohenriqq&hide_border=true&background=0D1117&stroke=C98500&ring=C98500&fire=E0559A&currStreakLabel=C98500&sideLabels=C3C2B7&dates=8b93a7" />
 </p>
