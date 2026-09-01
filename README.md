@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/gustavohenriqq">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=C98500&center=true&vCenter=true&width=560&lines=Analista+de+Dados+%26+Desenvolvedor+de+Software;Power+BI+%E2%80%A2+SQL+%E2%80%A2+dbt+%E2%80%A2+Python;Google+Student+Ambassador+2026" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=C98500&center=true&vCenter=true&width=780&height=45&lines=Analista+de+Dados+%26+Desenvolvedor+de+Software;Power+BI+%E2%80%A2+SQL+%E2%80%A2+dbt+%E2%80%A2+Python;Google+Student+Ambassador+2026" alt="typing" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@ Na **engenharia de dados**, finalizei o pipeline da **Copa do Mundo 2026**: 6 fo
 ## 📊 GitHub em números
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohenriqq&hide_border=true&background=0D1117&stroke=C98500&ring=C98500&fire=E0559A&currStreakLabel=C98500&sideLabels=C3C2B7&dates=8b93a7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohenriqq&hide_border=true&background=0D1117&stroke=C98500&ring=C98500&fire=E0559A&currStreakNum=F8FAFC&currStreakLabel=C98500&sideNums=F8FAFC&sideLabels=C3C2B7&dates=8b93a7" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Na **engenharia de dados**, finalizei o pipeline da **Copa do Mundo 2026**: 6 fo
 
 <p align="center"><i>"Dado bom não é o mais bonito, é o que responde a uma pergunta e vira decisão."</i></p>
 
-<p align="center">🤝 Aberto a oportunidades em dados, engenharia de dados e desenvolvimento.</p>
+<p align="center">🤝 Aberto a oportunidades em dados e desenvolvimento de software.</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavohenriqq/gustavohenriqq/output/github-contribution-grid-snake-dark.svg">
